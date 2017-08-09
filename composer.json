@@ -1,0 +1,15 @@
+{
+    "name": "triupweb/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "Diego Goulart",
+            "email": "diego@triup.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Skill\\User\\": ""
+        }
+    }
+}

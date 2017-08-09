@@ -7,9 +7,17 @@
             "email": "diego@triup.com.br"
         }
     ],
+    "requires": {
+        "php": ">=5.6.4",
+        "illuminate/http": "5.4.*",
+        "illuminate/database": "5.4.*",
+        "illuminate/support": "5.4.*",
+        "triupweb/support": "1.*",
+        "artesaos/migrator": "1.*"
+    },
     "autoload": {
         "psr-4": {
-            "Skill\\User\\": ""
+            "Triup\\User\\": ""
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Skill\User\Database\Seeders;
+namespace Triup\User\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;

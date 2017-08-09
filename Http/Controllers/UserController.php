@@ -1,10 +1,10 @@
 <?php
 
-namespace Skill\User\Http\Controllers;
+namespace Triup\User\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
-use Illuminate\Routing\Controller;
+use Triup\Support\Http\Controllers\Controller;
 
 class UserController extends Controller
 {

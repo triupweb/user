@@ -1,6 +1,6 @@
 <?php
 
-namespace Skill\User\Entities;
+namespace Triup\User\Entities;
 
 use Illuminate\Database\Eloquent\Model;
 
